@@ -1,0 +1,25 @@
+body{
+
+	
+
+		h1{
+			color:red;
+			font-size:59px;
+		}
+		section{
+			font-weight:bold;
+		}
+		
+		.heading{
+			
+			font-size:69;
+			background-color:pink;
+
+		}
+
+		section a{
+			color:blue;
+		}
+		
+		
+}
